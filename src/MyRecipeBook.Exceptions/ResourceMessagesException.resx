@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root"
+                xmlns="">
+        <xsd:element name="root" msdata:IsDataSet="true">
+
+        </xsd:element>
+    </xsd:schema>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral,
+            PublicKeyToken=b77a5c561934e089
+        </value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral,
+            PublicKeyToken=b77a5c561934e089
+        </value>
+    </resheader>
+    <data name="NAME_EMPTY" xml:space="preserve">
+        <value>Nome não pode ser vazio</value>
+    </data>
+    <data name="EMAIL_EMPTY" xml:space="preserve">
+        <value>Email não pode ser vazio</value>
+    </data>
+    <data name="INVALID_PASSWORD" xml:space="preserve">
+        <value>Senha deve ter no mínimo 6 caracteres</value>
+    </data>
+    <data name="EMAIL_INVALID" xml:space="preserve">
+        <value>Email deve ser um email válido</value>
+    </data>
+    <data name="EMAIL_ALREADY_EXISTS" xml:space="preserve">
+        <value>Email já cadastrado</value>
+    </data>
+    <data name="UNKNOWN_ERROR" xml:space="preserve">
+        <value>Erro desconhecido</value>
+    </data>
+    <data name="ERROR_USER_UNDER_16" xml:space="preserve">
+        <value>Idade precisa ser maior que 16 anos</value>
+    </data>
+    <data name="BIRTHDATE_EMPTY" xml:space="preserve">
+        <value>Data de nascimento não pode ser vazia</value>
+    </data>
+    <data name="EMAIL_OR_PASSWORD_INVALID" xml:space="preserve">
+        <value>Email ou senha inválido</value>
+    </data>
+    <data name="NO_TOKEN" xml:space="preserve">
+        <value>Nenhum token encontrado na requisição</value>
+    </data>
+    <data name="INVALID_TOKEN" xml:space="preserve">
+        <value>Token inválido</value>
+    </data>
+    <data name="OLD_PASSWORD_DIFFERENT_CURRENT_PASSWORD" xml:space="preserve">
+        <value>A senha informada está diferente da senha atual</value>
+    </data>
+    <data name="NO_CHANGES" xml:space="preserve">
+        <value>Nenhuma alteração para ser salva</value>
+    </data>
+    <data name="RECIPE_TITLE_EMPTY" xml:space="preserve">
+        <value>Title não pode ser vazio</value>
+    </data>
+    <data name="INVALID_COOKING_TIME" xml:space="preserve">
+        <value>Tempo de cozinhamento inválido</value>
+    </data>
+    <data name="INVALID_DIFFICULTY" xml:space="preserve">
+        <value>Dificuldade inválida</value>
+    </data>
+    <data name="INGREDIENTS_EMPTY" xml:space="preserve">
+        <value>A lista de ingredientes não pode ser vázia</value>
+    </data>
+    <data name="INGREDIENT_EMPTY" xml:space="preserve">
+        <value>O ingrediente não pode ser vázio</value>
+    </data>
+    <data name="INSTRUCTION_EMPTY" xml:space="preserve">
+        <value>A lista de instruções não podem ser vazias</value>
+    </data>
+    <data name="INVALID_STEP" xml:space="preserve">
+        <value>O passo tem que ser um número maior que zero</value>
+    </data>
+    <data name="INSTRUCTION_TEXT_EMPTY" xml:space="preserve">
+        <value>A instrução não pode ser vázia</value>
+    </data>
+    <data name="INSTRUCTION_TEXT_MAX_LENGTH" xml:space="preserve">
+        <value>A instrução não pode ter mais que 2000 caracteres</value>
+    </data>
+    <data name="DUPLICATED_STEP" xml:space="preserve">
+        <value>Os números de passos não podem ser repetidos</value>
+    </data>
+    <data name="INVALID_DISH_TYPE" xml:space="preserve">
+        <value>Tipo de prato inválido</value>
+    </data>
+    <data name="RECIPE_NOT_FOUND" xml:space="preserve">
+        <value>Receita não encontrada</value>
+    </data>
+    <data name="NOT_YOUR_RECIPE" xml:space="preserve">
+        <value>Está receita não é sua</value>
+    </data>
+</root>
