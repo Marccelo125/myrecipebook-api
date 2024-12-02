@@ -1,4 +1,4 @@
-# 📚[My Recipe Book API](https://github.com/Marccelo125/api-library) 📦
+# 📙[My Recipe Book API](https://github.com/Marccelo125/api-library) 📦
 
 > [!IMPORTANT]
 > Este é um projeto de estudo e aplicação de uma API em .NET 8. O foco é o desenvolvimento de um sistema de receitas.</br>
