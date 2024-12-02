@@ -6,7 +6,7 @@
 > [!NOTE]
 > O desenvolvimento deste projeto é uma base para estudo de DDD em .NET 8. Aprendi muito com ele então caso queira dar um `Fork`, sinta-se a vontade para contribuir.
 
-# Instalação
+# Instalação .NET
 
 Para instalar o .NET 8, siga as instruções no [guia de instalação oficial]([https://laravel.com/docs/installation](https://learn.microsoft.com/pt-br/dotnet/core/install/)).
 
